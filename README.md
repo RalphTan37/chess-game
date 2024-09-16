@@ -1,2 +1,3 @@
-# chess-game
-building a chess game using Python
+# Chess Game Project
+Building a Chess game with Pygame & Python. </br>
+*Under Construction*
